@@ -1,4 +1,4 @@
-This is a simple Qr Code Generator Website using Reactjs and Qr Code Api.This Website gives you a Qr Code what you are giving as input and generate according to your input.you can text or url as input.
+This is a simple Qr Code Generator Website using Reactjs and Qr Code Api.This Website gives you a Qr Code what you are giving as input and generate according to your input.you can give text or url as input.
 
 The Website Can Be Viewed On :- https://ananthansp10-qr-code-generator-app.netlify.app/
 
