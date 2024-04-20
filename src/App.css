@@ -10,17 +10,15 @@ body{
 .bg-red{
   color: white;
 }
-.col-sm-12 .main-body{
-  width: 500px;
-  height: 500px;
+.main-body{
+  width:500px;
+  height:500px;
   background-color: white;
-  overflow: hidden;
   border-radius: 10px;
 }
 .inp{
   width: 90%;
   height: 10%;
-  overflow: hidden;
   border-radius: 20px;
 }
 .btn{
