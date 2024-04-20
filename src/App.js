@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div>
-      <h1 className="mt-4 text-center">Qr Code <span className="bg-red">Generator</span></h1>
+      <h1 className="mt-4 text-center bg-red">Qr Code <span className="bg-red">Generator</span></h1>
       <div className="container">
         <div className="row">
           <div className="col-sm-12 col-md-12">
