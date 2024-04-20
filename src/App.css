@@ -1,5 +1,5 @@
 body{
-  margin: o;
+  margin-top:50px;
   padding: o;
   background-color:grey;
   display: flex;
@@ -8,7 +8,11 @@ body{
   border-collapse: separate;
 }
 .bg-red{
-  color: white;
+  color:black;
+}
+.white{
+  color: red;
+  background-color: white;
 }
 .main-body{
   width:350px;
